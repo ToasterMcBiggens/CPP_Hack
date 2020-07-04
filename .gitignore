@@ -15,6 +15,8 @@
 *.so
 *.dylib
 *.dll
+**/Debug/
+**/Release/
 
 # Fortran module files
 *.mod
@@ -30,3 +32,5 @@
 *.exe
 *.out
 *.app
+
+*.log
