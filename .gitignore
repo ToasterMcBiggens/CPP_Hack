@@ -16,6 +16,7 @@
 *.dylib
 *.dll
 **/Debug/
+**/Release/
 
 # Fortran module files
 *.mod
